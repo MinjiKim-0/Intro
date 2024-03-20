@@ -12,10 +12,10 @@
 ### Awards
 - The 19th International Conference on Multimedia Information Technology and Applications (MITA 2023) BEST PAPER AWARD
 
-**Vision & Biometric Lab. (Prof. DoHoon Lee): 2021. 9. - Current**
+**Vision & Biometric Lab. (Prof. DoHoon Lee): 2021. 9. - 2024. 1.**
 ---
 ![lab_logo](./VBLab_logo.png)<br>
-**Programming Language: C/C++, Python**<br>
+**Programming Language: Python**<br>
 **Exposure to PyTorch, OpenCV, Tensorflow**
 - 🤓 **I’m currently learning** Exposure Correction, Low-light Enhancement 
 - 🔭 **I’m currently working on**  Research in Exposure Correction in High-resolution Images(FHD or higher).
