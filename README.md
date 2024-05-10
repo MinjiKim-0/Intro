@@ -1,4 +1,4 @@
-# Hello, I'm Minji Kim from VBlab!  
+# Hello, I'm Minji Kim from NATIONAL CANCER CENTER!  
   
 ## Master's degree in Information Convergence Engineering(AI major) from Pusan National University
 
