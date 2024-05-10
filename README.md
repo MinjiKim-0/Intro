@@ -12,14 +12,17 @@
 ### Awards
 - The 19th International Conference on Multimedia Information Technology and Applications (MITA 2023) BEST PAPER AWARD
 
-**NATIONAL CANCER CENTER (Artificial Intelligence Business Team): 2024. 5. - **
-**Vision & Biometric Lab. (Prof. DoHoon Lee): 2021. 9. - 2024. 1.**
+**CAREER**
 ---
-![lab_logo](./VBLab_logo.png)<br>
+
+![ncc_logo](./ncc.svg)<br>
+- **National Cancer Center (Artificial Intelligence Business Team): 2024. 5. -**
+- Vision & Biometric Lab. (Prof. DoHoon Lee): 2021. 9. - 2024. 1.
+
 **Programming Language: Python**<br>
 **Exposure to PyTorch, OpenCV, Tensorflow**
-- 🤓 **I’m currently learning** Exposure Correction, Low-light Enhancement 
-- 🔭 **I’m currently working on**  Research in Exposure Correction in High-resolution Images(FHD or higher).
+- 🔭 **I’m currently working on**  Research in Semantic Segmentation of Thyroid Nodules from Chest CT Images.
+- 🤓 **I’m currently learning** Semantic Segmentation and Object Detection in Medical 3D Images
 <!--
 - 📫 **How to reach me** [LinkedIn](https://www.linkedin.com/in/jinmo-kim-3041501aa), [Site](https://jinmo.kim)
 -->
