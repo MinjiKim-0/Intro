@@ -16,7 +16,7 @@
 ---
 
 ![ncc_logo](./ncc.svg)<br>
-- **National Cancer Center (Artificial Intelligence Business Team): 2024. 5. -**
+- **National Cancer Center [Researcher of Artificial Intelligence Business Team]: 2024. 5. -**
 - Vision & Biometric Lab. (Prof. DoHoon Lee): 2021. 9. - 2024. 1.
 
 **Programming Language: Python**<br>
