@@ -12,6 +12,7 @@
 ### Awards
 - The 19th International Conference on Multimedia Information Technology and Applications (MITA 2023) BEST PAPER AWARD
 
+**NATIONAL CANCER CENTER (Artificial Intelligence Business Team): 2024. 5. - **
 **Vision & Biometric Lab. (Prof. DoHoon Lee): 2021. 9. - 2024. 1.**
 ---
 ![lab_logo](./VBLab_logo.png)<br>
